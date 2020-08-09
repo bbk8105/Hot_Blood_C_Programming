@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("±èÁØ¿±\n±è ÁØ ¿±\n±è  ÁØ  ¿±");
+	printf("김준엽\n김 준 엽\n김  준  엽");
 
 	return 0;
 }
